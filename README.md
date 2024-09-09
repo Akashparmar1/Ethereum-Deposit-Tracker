@@ -1,8 +1,19 @@
+Task Document for VIT SDE Hiring - Luganodes
 # Ethereum Deposit Tracker
 
 ## Project Overview
 
-This project monitors and records ETH deposits on the Beacon Deposit Contract using Node.js, Alchemy RPC, and Telegram bot alerts.
+Develop a robust and efficient Ethereum Deposit Tracker to monitor and record ETH deposits on the Beacon Deposit Contract.
+
+Examples of Deposits to be Tracked:
+Comment
+.
+
+Examples of Deposits to be Tracked:
+Comment
+Deposit Transaction: 0x1391be19259f10e01336a383217cf35344dd7aa157e95030f46235448ef5e5d6
+Deposit through contract: 0x53c98c3371014fd54275ebc90a6e42dffa2eee427915cab5f80f1e3e9c64eba4
+
 
 ## Setup Instructions
 
@@ -36,11 +47,5 @@ This project monitors and records ETH deposits on the Beacon Deposit Contract us
 - Sends Telegram alerts for each detected deposit.
 - Logs deposit details and errors.
 
-## Requirements
 
-- Node.js
-- Alchemy or Infura API key
-- Telegram Bot API token
 
-## Author
-John from NexSavants
